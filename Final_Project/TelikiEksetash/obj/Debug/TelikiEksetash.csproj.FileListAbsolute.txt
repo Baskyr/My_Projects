@@ -1,0 +1,10 @@
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\bin\Debug\TelikiEksetash.exe.config
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\bin\Debug\TelikiEksetash.exe
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\bin\Debug\TelikiEksetash.pdb
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\obj\Debug\TelikiEksetash.csprojAssemblyReference.cache
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\obj\Debug\TelikiEksetash.Form1.resources
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\obj\Debug\TelikiEksetash.Properties.Resources.resources
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\obj\Debug\TelikiEksetash.csproj.GenerateResource.cache
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\obj\Debug\TelikiEksetash.csproj.CoreCompileInputs.cache
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\obj\Debug\TelikiEksetash.exe
+C:\Users\bill2\OneDrive\Dokumenty\MyC#Projects\TelikiEksetash\TelikiEksetash\obj\Debug\TelikiEksetash.pdb

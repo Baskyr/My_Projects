@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\bill2\OneDrive\Dokumenty\MyC++Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(86,15): warning C4101: 'k': unreferenced local variable
+C:\Users\bill2\OneDrive\Dokumenty\MyC++Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(86,12): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\bill2\OneDrive\Dokumenty\MyC++Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
